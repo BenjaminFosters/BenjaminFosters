@@ -1,6 +1,6 @@
 # Hello there.
 
-Hi, I'm Reuben Hu (or sometimes known in the interwebs as Arthur Lawrence MacTavish or by fursona Benjamin Foster Bearington). I'm a self taught programmer, primarily in Python. Also learns about Server Infra on my own.
+Hi, I'm Reuben Hu (or sometimes known in the interwebs as **Arthur Lawrence MacTavish** or by grizzly bear fursona **Benjamin Foster Bearington**). I'm a self taught programmer, primarily in Python. Also learns about Server Infra on my own.
 
 ## Education History
 - (2025 - Now) - Bina Nusantara University @ Malang (Computer Science)
@@ -13,4 +13,9 @@ Hi, I'm Reuben Hu (or sometimes known in the interwebs as Arthur Lawrence MacTav
 ## Current Daily Driver
 - Android 15
 - Fedora Linux 42 Workstation
-- Windows 11 Home SL (with Copilot+ PC Experience)
+- Windows 11 Home SL
+
+## Interested In
+- Server Infrastructure
+- Open Source
+- Linux Server & Desktop
