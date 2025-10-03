@@ -1,8 +1,6 @@
-New handle will coming soon, GH/BenjaminFosters
-
 # Hello there.
 
-Hi, I'm Reuben Hu (or sometimes known in the interwebs as **Arthur Lawrence MacTavish** or by grizzly bear fursona **Benjamin Foster Bearington**). I'm a self taught programmer, primarily in Python. Also learns about Server Infra on my own.
+Hi, I'm Reuben Hu (or sometimes known in the interwebs as **Arthur Lawrence MacTavish** or by grizzly fursona **Benjamin Foster Bearington**). I'm a self taught programmer, primarily in Python. Also learns about Server Infra on my own.
 
 ## Education History
 - (2025 - Now) - Bina Nusantara University @ Malang (Computer Science)
