@@ -22,7 +22,7 @@ Send me an inbox at [inbox@reubenhu.my.id](mailto:inbox@reubenhu.my.id)
 
 <details>
 
-<summary>\*Fun Fact</summary>
+<summary>*Fun Fact</summary>
 
 Behind the name Benji, it's actually **Benjamin Foster Bearington**.
 
