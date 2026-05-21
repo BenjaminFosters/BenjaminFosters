@@ -1,21 +1,21 @@
 # Hello there.
 
-Hi, I'm Reuben Hu. I'm a self taught programmer, primarily in Python. Also learns about Server Infrastructure.
+![Header Image](GH.jpg)
 
-## Education History
-- (2025 - Now) - Bina Nusantara University @ Malang (Computer Science)
-- (2022 - 2025) - Xaverius Palembang Vocational High School (@ Computer and Networking Major)
+Hi, I'm Ruben Wealth Hu (*a.k.a. Reuben/Ben/Benji*)
 
-## Experience
-- (2018 - 2025) - Part of a Church Multimedia Ministry
-- (2022 - 2024) - Designer for School Magazine Organization
+I'm a Computer Science student interested in Linux Infrastructure, Open Source Technologies, Cyber Security.
 
-## Current Daily Driver
-- Android 15
-- Fedora Linux
-- Windows 11 Home SL
+Side interests includes Graphic Design, UI/UX, and Photography.
 
-## Interested In
-- Server Infrastructure
-- Open Source
-- Linux Server & Desktop
+# Current Systems
+
+- Windows 11 Pro
+- Fedora Linux 44 Workstation
+- Android 15 (ColorOS 15 on Oppo A78 LTE)
+
+# Contact
+
+Every single links are available in [https://reubenhu.my.id/](https://reubenhu.my.id/)
+
+Send me an inbox at [inbox@reubenhu.my.id](mailto:inbox@reubenhu.my.id)
