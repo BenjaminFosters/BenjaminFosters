@@ -4,7 +4,7 @@
 
 Hi, I'm Ruben Wealth Hu (*a.k.a. Reuben/Ben/Benji\**)
 
-I'm a Computer Science student interested in Linux Infrastructure, Open Source Technologies, Cyber Security.
+I'm a Computer Science student (at BINUS University) interested in Linux Infrastructure, Open Source Technologies, Cyber Security.
 
 Side interests includes Graphic Design, UI/UX, and Photography.
 
