@@ -8,17 +8,11 @@ I'm a Computer Science student (at BINUS University) interested in Linux Infrast
 
 Side interests includes Graphic Design, UI/UX, and Photography.
 
-# Current Systems
-
-- Windows 11 Pro
-- Fedora Linux 44 Workstation
-- Android 15 (ColorOS 15 on Oppo A78 LTE)
-
 # Contact
 
 Every single links are available in [https://reubenhu.my.id/](https://reubenhu.my.id/)
 
-Send me an inbox at [inbox@reubenhu.my.id](mailto:inbox@reubenhu.my.id)
+Send me an inbox at [reuben.hu@proton.me](mailto:reuben.hu@proton.me)
 
 <details>
 
